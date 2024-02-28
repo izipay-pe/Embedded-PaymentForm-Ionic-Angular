@@ -1,0 +1,7 @@
+{
+  "name": "Webview-Redireccion-Ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
